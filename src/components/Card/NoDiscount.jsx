@@ -18,7 +18,7 @@ const NoDiscount = () => {
       <div className="icon-row">
         <div className="icon-container">
           <FaClock className="icon" />
-          <span className="icon-text">10 Hours</span>
+          <span className="icon-text">10 hrs</span>
         </div>
         <div className="icon-container">
           <FaUsers className="icon" />
